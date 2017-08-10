@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "pattern": "pete12ju2/*/*.war",
+      "target": "/data/workspace/PractitionerSupportNetwork-Test/test-pt",
+      "build": "LATEST"
+      
+    }
+  ]
+}
